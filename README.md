@@ -1,5 +1,5 @@
-Front End Attachment
-====================
+Front End Attachments
+=====================
 
 Plugin used during my WordCamp Paris 2016 talk to illustrate how to benefit from the BP Attachment API.
 
